@@ -1,8 +1,13 @@
 # ChicTech Git Workshop 2019
 
-![ChicTech logo 2019](https://github.com/melissachen2000/TechGirlz_Git_Lesson/blob/master/chictech_logo.png)
-
-**Welcome to the ChicTech Git Workshop! To access the slides, follow this [link](https://docs.google.com/presentation/d/1UCMudz1QMyp8uOk7ADzWpLFaZ3RyKzaOlaP3Jy826dQ/edit?usp=sharing).**
+<div>
+<p align=center>
+<img src="https://github.com/melissachen2000/TechGirlz_Git_Lesson/blob/master/chictech_logo.png" alt="ChicTechLogo"></img>
+</p>
+<p align=center>
+<b>Welcome to the ChicTech Git Workshop! To access the slides, follow this <a href="https://docs.google.com/presentation/d/1UCMudz1QMyp8uOk7ADzWpLFaZ3RyKzaOlaP3Jy826dQ/edit?usp=sharing">link</a>.</b>
+</p>
+</div>
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
